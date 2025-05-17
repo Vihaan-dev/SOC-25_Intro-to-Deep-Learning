@@ -1,1 +1,3 @@
-# SOC-25_Intro-to-Deep-Learning
+# Introduction to Deep Learning
+
+## Season of Code 2024
